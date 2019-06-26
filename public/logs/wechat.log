@@ -1,0 +1,4 @@
+2018-09-03 10:32:02 > DEBUG > Pre Order: ["pay/unifiedorder",{"appid":"wx0f5e37c357fcd593","mch_id":"1513531551","nonce_str":"hrFV334uhS2zkIAZ","notify_url":"http://www.yingwenquming.com/wechat/notify","sign":"8C623FE952AFEF55C2CE5497F14FF4FA","trade_type":"MWEB","spbill_create_ip":"127.0.0.1","out_trade_no":"94_1535941922","total_fee":10,"body":"购买英文名字"}] []
+
+2018-09-03 10:32:02 > DEBUG > Request To Wechat Api ["https://api.mch.weixin.qq.com/pay/unifiedorder",{"appid":"wx0f5e37c357fcd593","mch_id":"1513531551","nonce_str":"hrFV334uhS2zkIAZ","notify_url":"http://www.yingwenquming.com/wechat/notify","sign":"8C623FE952AFEF55C2CE5497F14FF4FA","trade_type":"MWEB","spbill_create_ip":"127.0.0.1","out_trade_no":"94_1535941922","total_fee":10,"body":"购买英文名字"}] []
+
